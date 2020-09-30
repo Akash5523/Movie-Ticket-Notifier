@@ -1,4 +1,4 @@
-# moviealarm
+# moviealarm You can do much better by implementing Ai and ml techniques in you project increase productivity.
 
 An alarm system for movie ticket booking. Many times we don't get the chance to book the tickets as soon as they arrive, so this script provides a notification system for that.User just need to specify the movie name in script to get 
 1)E-mail notification
